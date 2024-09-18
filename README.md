@@ -12,14 +12,56 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [04 - Linux Commands and File System](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/04%20-%20Linux%20Commands%20and%20File%20System.pdf)
 
-[05 - Text processing in Linux.pdf](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/05%20-%20Text%20processing%20in%20Linux.pdf)
+[05 - Text processing in Linux](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/05%20-%20Text%20processing%20in%20Linux.pdf)
 
 06
 
 07
 
-[08 - Software Architecture.pdf](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/08%20-%20Software%20Architecture.pdf)
+[08 - Software Architecture](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/08%20-%20Software%20Architecture.pdf)
 
-[09 - HTTP, URL, JSON, API.pdf](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/09%20-%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
+[09 - HTTP, URL, JSON, API](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/09%20-%20HTTP%2C%20URL%2C%20JSON%2C%20API.pdf)
 
-[10 - REST API Testing Tools.pdf](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/10%20-%20REST%20API%20Testing%20Tools.pdf)
+[10 - REST API Testing Tools](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/10%20-%20REST%20API%20Testing%20Tools.pdf)
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+[22 - Test Design Techniques- Pairwise testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/22%20-%20Test%20Design%20Techniques-%20Pairwise%20testing.pdf)
+
+[23 - Test Design Techniques - Decision tables](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/23%20-%20Test%20Design%20Techniques%20-%20Decision%20tables.pdf)
+
+[24 - Test Design Techniques - State-transition diagrams](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/24%20-%20Test%20Design%20Techniques%20-%20State-transition%20diagrams.pdf)
+
+[25 - Test Design tasks (checklist)](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/25%20-%20Test%20Design%20tasks%20(checklist).pdf)
+
+[28 - Git overview](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/28%20-%20Git%20overview.pdf)
+
+[29.1 - Docker overview](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/29.1%20-%20Docker%20overview.pdf)
+
+[29.2 - Docker Overview - (Advanced)](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/29.2%20-%20Docker%20Overview%20-%20(Advanced).pdf)
+
+[30 - Agile vs. Waterfall](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/30%20-%20Agile%20vs.%20Waterfall.pdf)
+
+[31 - Releases](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/31%20-%20Releases.pdf)
+
+[32 - SCRUM](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/32%20-%20SCRUM.pdf)
