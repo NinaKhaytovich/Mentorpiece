@@ -24,11 +24,11 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [10 - REST API Testing Tools](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/10%20-%20REST%20API%20Testing%20Tools.pdf)
 
-11 - Web UI
+[11 - Web UI](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/11%20-%20Web%20UI.pdf)
 
-12 - Web UI - Tools and testing
+[12 - Web UI - Tools and testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/12%20-%20Web%20UI%20-%20Tools%20and%20testing%20-%20flights.pdf)
 
-13 -  Exploratory testing
+[13 -  Exploratory testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/13%20-%20Exploratory%20testing.pdf)
 
 [14 - UML, Requirements sources and types](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/14%20-%20UML%2C%20Requirements%20sources%20and%20types%20-%20Homework.pdf)
 
