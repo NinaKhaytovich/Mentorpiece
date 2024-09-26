@@ -14,9 +14,9 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [05 - Text processing in Linux](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/05%20-%20Text%20processing%20in%20Linux.pdf)
 
-06
+06 - Networks overview
 
-07
+07 - Networks Layers and IP
 
 [08 - Software Architecture](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/08%20-%20Software%20Architecture.pdf)
 
@@ -24,27 +24,27 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [10 - REST API Testing Tools](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/10%20-%20REST%20API%20Testing%20Tools.pdf)
 
-11
+11 - Web UI
 
-12
+12 - Web UI - Tools and testing
 
-13
+13 -  Exploratory testing
 
-14
+14 - UML, Requirements sources and types
 
-15
+15 - Test Documentation
 
-16
+16 - Defects
 
-17
+17 - Static testing
 
-18
+18 - Test classification: Levels of testing
 
-19
+19 - Non-functional testing synopsis
 
-20
+20 - Test Design Techniques: White, Gray, Black box
 
-21
+21 - Test Design Techniques: Equivalence classes and Boundary Values analysis
 
 [22 - Test Design Techniques- Pairwise testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/22%20-%20Test%20Design%20Techniques-%20Pairwise%20testing.pdf)
 
