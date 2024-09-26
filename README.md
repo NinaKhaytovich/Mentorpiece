@@ -32,11 +32,11 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [14 - UML, Requirements sources and types](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/14%20-%20UML%2C%20Requirements%20sources%20and%20types%20-%20Homework.pdf)
 
-15 - Test Documentation
+[15 - Test Documentation](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/15%20-%20Test%20Documentation.pdf)
 
-16 - Defects
+[16 - Defects](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/16%20-%20Defects.pdf)
 
-17 - Static testing
+[17 - Static testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/17%20-%20Static%20testing.pdf)
 
 18 - Test classification: Levels of testing
 
