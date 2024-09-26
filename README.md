@@ -30,7 +30,7 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 13 -  Exploratory testing
 
-14 - UML, Requirements sources and types
+[14 - UML, Requirements sources and types](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/14%20-%20UML%2C%20Requirements%20sources%20and%20types%20-%20Homework.pdf)
 
 15 - Test Documentation
 
