@@ -14,9 +14,9 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [05 - Text processing in Linux](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/05%20-%20Text%20processing%20in%20Linux.pdf)
 
-06 - Networks overview
+06 - Networks overview (Not uploaded due to containing a lot of sensitive information)
 
-07 - Networks Layers and IP
+07 - Networks Layers and IP (Not uploaded due to containing a lot of sensitive information)
 
 [08 - Software Architecture](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/08%20-%20Software%20Architecture.pdf)
 
@@ -42,9 +42,9 @@ Here you can find my tasks completed during "Mentorpiece" course.
 
 [19 - Non-functional testing synopsis](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/19%20-%20Non-functional%20testing%20synopsis.pdf)
 
-20 - Test Design Techniques: White, Gray, Black box
+[20 - Test Design Techniques: White, Gray, Black box](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/20%20-%20Test%20Design%20Techniques-%20White%2C%20Gray%2C%20Black%20box.pdf)
 
-21 - Test Design Techniques: Equivalence classes and Boundary Values analysis
+[21 - Test Design Techniques: Equivalence classes and Boundary Values analysis](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/21%20-%20Test%20Design%20Techniques%20-%20Equivalence%20classes%20and%20Boundary%20Values%20analysis.pdf)
 
 [22 - Test Design Techniques- Pairwise testing](https://github.com/NinaKhaytovich/Mentorpiece/blob/main/22%20-%20Test%20Design%20Techniques-%20Pairwise%20testing.pdf)
 
